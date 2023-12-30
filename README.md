@@ -12,14 +12,14 @@ The structure of the folders is:
 
 ## Setup Files
 
-* Download Apache Spark with Hadoop
-** https://spark.apache.org/downloads.html
-*** Choose a Spark release: 3.5.0
-*** Choose a package type:  "Pre-built for Apache Hadoop 3.3 and later"
-*** If these options aren't appearing, go to the Spark Release Directory: https://archive.apache.org/dist/spark/
+- Download Apache Spark with Hadoop
+    - https://spark.apache.org/downloads.html
+        - Choose a Spark release: 3.5.0
+        - Choose a package type:  "Pre-built for Apache Hadoop 3.3 and later"
+        - If these options aren't appearing, go to the Spark Release Directory: https://archive.apache.org/dist/spark/
 
 * Download and install Java Development Kit ( JDK )
-** 
+**
 
 * Download and install Anaconda project
 ** https://www.anaconda.com/download
