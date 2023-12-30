@@ -25,7 +25,7 @@ The structure of the folders is:
 
 - Download and install Java Development Kit ( JDK )
     - https://www.oracle.com/java/technologies/downloads/
-    - 
+    - Preferably install in C:\Java
     
 - Download and install Python
     - https://www.python.org/downloads/
