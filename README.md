@@ -14,29 +14,29 @@ The folder structure includes:
 
 ### Download Apache Spark with Hadoop
 
-- [Apache Spark Downloads](https://spark.apache.org/downloads.html){:target="_blank"}
+- <a href="https://spark.apache.org/downloads.html" target="_blank">Apache Spark Downloads</a>
   - Choose Spark release: 3.5.0
   - Select package type: "Pre-built for Apache Hadoop 3.3 and later"
-  - If these options are not visible, visit the [Spark Release Directory](https://archive.apache.org/dist/spark/)
+  - If these options are not visible, visit the <a href="https://archive.apache.org/dist/spark/" target="_blank">Spark Release Directory</a>
   - Create the following folder and extract all files there: C:\Spark
 
 ### Download Hadoop utilities
 
-- [Hadoop Utilities](https://github.com/cdarlint/winutils/tree/master/hadoop-3.3.5/bin){:target="_blank"}
+- <a href="https://github.com/cdarlint/winutils/tree/master/hadoop-3.3.5/bin" target="_blank">Hadoop Utilities</a>
   - Create the following folder and extract all files there: C:\hadoop\bin
 
 ### Download and install Java Development Kit (JDK)
 
-- [Java Development Kit (JDK) Downloads](https://www.oracle.com/java/technologies/downloads/){:target="_blank"}
+- <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">Java Development Kit (JDK) Downloads</a>
   - Preferably, install in C:\Java
 
 ### Download and install Python
 
-- [Python Downloads](https://www.python.org/downloads/){:target="_blank"}
+- <a href="https://www.python.org/downloads/" target="_blank">Python Downloads</a>
 
 ### Download and install Anaconda project
 
-- [Anaconda Downloads](https://www.anaconda.com/download){:target="_blank"}
+- <a href="https://www.anaconda.com/download" target="_blank">Anaconda Downloads</a>
 
 ## Environment variables
 
@@ -63,17 +63,17 @@ The folder structure includes:
 ## Important Python Wheels
 
 Open the command prompt and run the following:
-- [pip install pyspark](https://pypi.org/project/pyspark/){:target="_blank"}
-- [pip install delta-spark](https://pypi.org/project/delta-spark/){:target="_blank"}
+- <a href="https://pypi.org/project/pyspark/" target="_blank">pip install pyspark</a>
+- <a href="https://pypi.org/project/delta-spark/" target="_blank">pip install delta-spark</a>
 
 ## First steps with Delta Lake
 
-- [Initial setup](https://docs.delta.io/latest/quick-start.html){:target="_blank"}
-- [How to create Delta tables](https://delta.io/blog/2022-10-25-create-delta-lake-tables/){:target="_blank"}
-- [Delta tables read and write](https://docs.delta.io/latest/delta-batch.html#language-python){:target="_blank"}
-- [Delta table project examples (Official)](https://github.com/delta-io/delta/tree/master/examples/python){:target="_blank"}
+- <a href="https://docs.delta.io/latest/quick-start.html" target="_blank">Initial setup</a>
+- <a href="https://delta.io/blog/2022-10-25-create-delta-lake-tables/" target="_blank">How to create Delta tables</a>
+- <a href="https://docs.delta.io/latest/delta-batch.html#language-python" target="_blank">Delta tables read and write</a>
+- <a href="https://github.com/delta-io/delta/tree/master/examples/python" target="_blank">Delta table project examples (Official)</a>
 
 ## Dataset repositories
 
-- Collection: [DataQuest](https://www.dataquest.io/blog/free-datasets-for-projects/){:target="_blank"}
-- Good option: [Kaggle](https://www.kaggle.com/datasets){:target="_blank"}
+- Collection: <a href="https://www.dataquest.io/blog/free-datasets-for-projects/" target="_blank">DataQuest</a>
+- Good option: <a href="https://www.kaggle.com/datasets" target="_blank">Kaggle</a>
